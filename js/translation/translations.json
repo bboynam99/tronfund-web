@@ -21,7 +21,7 @@
   },
   "main_paragraph": {
     "en": "Decentralized & Secure smart contract fund",
-    "ru": "Децентрализованный и безопасный смарт-контрактный фонд"
+    "ru": "Децентрализованный и безопасный фонд на основе смарт контракта"
   },
   "smart_contract_link": {
     "en": "Smart contract",
@@ -184,16 +184,16 @@
     "ru": "Выплачено"
   },
   "available_for_withdraw": {
-    "en": "Available for Withdraw",
-    "ru": "Доступно для снятия"
+    "en": "Withdrawable",
+    "ru": "Доступно"
   },
   "is_tronfund_a_safe": {
     "en": "Is TronFund a safe?",
     "ru": "<span style='font-family: \"Oswald\"'>Является ли TronFund безопасным?</span>"
   },
   "desc_is_tronfund_a_safe": {
-    "en": "TronFund is a smart contract which runs on Tron blockchain, the source code is verified and available for review <a target='_blank' href='#'>here</a>. No one can modify the source code or delete the smart contract.<br/><br/>That means TronFund is totally decentralized and autonomous.",
-    "ru": "TronFund - это умный контракт, который работает на блокчейне Tron, исходный код которого проверен и доступен для просмотра <a target='_blank' href='#'>здесь</a>. Никто не может изменить исходный код или удалить умный контракт.<br/><br/>Это означает, что TronFund полностью децентрализован и автономен."
+    "en": "TronFund is a smart contract which runs on Tron blockchain, the source code is verified and available for review <a target='_blank' href='https://tronsmartcontract.space/#/interact/TFCuKahjWSwo32sUQuVrXpmQiRpapFet9e'>here</a>. No one can modify the source code or delete the smart contract.<br/><br/>That means TronFund is totally decentralized and autonomous.",
+    "ru": "TronFund - это смарт контракт, который работает на блокчейне Tron, исходный код которого проверен и доступен для просмотра <a target='_blank' href='https://tronsmartcontract.space/#/interact/TFCuKahjWSwo32sUQuVrXpmQiRpapFet9e'>здесь</a>. Никто не может изменить исходный код или удалить смарт контракт.<br/><br/>Это означает, что TronFund полностью децентрализован и автономен."
   },
   "what_do_i_need": {
     "en": "What do I need to use TronFund?",
