@@ -192,8 +192,8 @@
     "ru": "<span style='font-family: \"Oswald\"'>Является ли TronFund безопасным?</span>"
   },
   "desc_is_tronfund_a_safe": {
-    "en": "TronFund is a smart contract which runs on Tron blockchain, the source code is verified and available for review <a target='_blank' href='https://tronsmartcontract.space/#/interact/TWvRnKjQBBvgsyHJcE43HfAmm3mwvoC73V'>here</a>. No one can modify the source code or delete the smart contract.<br/><br/>That means TronFund is totally decentralized and autonomous.",
-    "ru": "TronFund - это смарт контракт, который работает на блокчейне Tron, исходный код которого проверен и доступен для просмотра <a target='_blank' href='https://tronsmartcontract.space/#/interact/TWvRnKjQBBvgsyHJcE43HfAmm3mwvoC73V'>здесь</a>. Никто не может изменить исходный код или удалить смарт контракт.<br/><br/>Это означает, что TronFund полностью децентрализован и автономен."
+    "en": "TronFund is a smart contract which runs on Tron blockchain, the source code is verified and available for review <a target='_blank' href='https://tronsmartcontract.space/#/interact/TDeEW7HWunygqfg7vPQXyRAJoe8NFe52nm'>here</a>. No one can modify the source code or delete the smart contract.<br/><br/>That means TronFund is totally decentralized and autonomous.",
+    "ru": "TronFund - это смарт контракт, который работает на блокчейне Tron, исходный код которого проверен и доступен для просмотра <a target='_blank' href='https://tronsmartcontract.space/#/interact/TDeEW7HWunygqfg7vPQXyRAJoe8NFe52nm'>здесь</a>. Никто не может изменить исходный код или удалить смарт контракт.<br/><br/>Это означает, что TronFund полностью децентрализован и автономен."
   },
   "what_do_i_need": {
     "en": "What do I need to use TronFund?",
