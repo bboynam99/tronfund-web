@@ -1,5 +1,5 @@
 const networks = {
-    mainnet: "TDeEW7HWunygqfg7vPQXyRAJoe8NFe52nm",
+    mainnet: "TNGqUiKycPN6tGpDp1nyrqYVj4yYcynw1z",
     shasta: ""
 }
 
